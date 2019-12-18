@@ -1,0 +1,55 @@
+Step 0: Minibatch Loss= 2.2964, Training Accuracy= 0.080, 20 Examples/sec
+Step 1: Minibatch Loss= 2.2777, Training Accuracy= 0.160, 1125 Examples/sec
+Step 10: Minibatch Loss= 2.0322, Training Accuracy= 0.620, 1167 Examples/sec
+Step 20: Minibatch Loss= 1.6853, Training Accuracy= 0.680, 1043 Examples/sec
+Step 30: Minibatch Loss= 1.4378, Training Accuracy= 0.760, 1199 Examples/sec
+Step 40: Minibatch Loss= 0.7961, Training Accuracy= 0.940, 1149 Examples/sec
+Step 50: Minibatch Loss= 0.6885, Training Accuracy= 0.900, 1109 Examples/sec
+Step 60: Minibatch Loss= 0.2678, Training Accuracy= 0.960, 1115 Examples/sec
+Step 70: Minibatch Loss= 0.4495, Training Accuracy= 0.840, 1172 Examples/sec
+Step 80: Minibatch Loss= 0.2118, Training Accuracy= 0.880, 1104 Examples/sec
+Step 90: Minibatch Loss= 0.2931, Training Accuracy= 0.960, 1200 Examples/sec
+Step 100: Minibatch Loss= 0.4399, Training Accuracy= 0.920, 1049 Examples/sec
+Step 110: Minibatch Loss= 0.3226, Training Accuracy= 0.940, 1215 Examples/sec
+Step 120: Minibatch Loss= 0.3299, Training Accuracy= 0.940, 1125 Examples/sec
+Step 130: Minibatch Loss= 0.5795, Training Accuracy= 0.880, 1145 Examples/sec
+Step 140: Minibatch Loss= 0.3183, Training Accuracy= 0.960, 1141 Examples/sec
+Step 150: Minibatch Loss= 0.1746, Training Accuracy= 1.000, 1141 Examples/sec
+Step 160: Minibatch Loss= 0.1080, Training Accuracy= 0.880, 1089 Examples/sec
+Step 170: Minibatch Loss= 0.3113, Training Accuracy= 0.940, 1167 Examples/sec
+Step 180: Minibatch Loss= 0.2034, Training Accuracy= 0.960, 1222 Examples/sec
+Step 190: Minibatch Loss= 0.2376, Training Accuracy= 0.940, 1109 Examples/sec
+Step 200: Minibatch Loss= 0.1212, Training Accuracy= 0.920, 1077 Examples/sec
+Step 210: Minibatch Loss= 0.1284, Training Accuracy= 0.920, 1085 Examples/sec
+Step 220: Minibatch Loss= 0.1275, Training Accuracy= 0.980, 1107 Examples/sec
+Step 230: Minibatch Loss= 0.2398, Training Accuracy= 0.980, 1160 Examples/sec
+Step 240: Minibatch Loss= 0.2467, Training Accuracy= 0.980, 1221 Examples/sec
+Step 250: Minibatch Loss= 0.2420, Training Accuracy= 1.000, 1151 Examples/sec
+Step 260: Minibatch Loss= 0.1390, Training Accuracy= 1.000, 1152 Examples/sec
+Step 270: Minibatch Loss= 0.0929, Training Accuracy= 1.000, 1177 Examples/sec
+Step 280: Minibatch Loss= 0.0468, Training Accuracy= 0.980, 1195 Examples/sec
+Step 290: Minibatch Loss= 0.3140, Training Accuracy= 1.000, 1087 Examples/sec
+Step 300: Minibatch Loss= 0.1970, Training Accuracy= 0.980, 1161 Examples/sec
+Step 310: Minibatch Loss= 0.0642, Training Accuracy= 1.000, 1159 Examples/sec
+Step 320: Minibatch Loss= 0.0909, Training Accuracy= 0.960, 1153 Examples/sec
+Step 330: Minibatch Loss= 0.1056, Training Accuracy= 1.000, 1162 Examples/sec
+Step 340: Minibatch Loss= 0.0610, Training Accuracy= 0.960, 1135 Examples/sec
+Step 350: Minibatch Loss= 0.1090, Training Accuracy= 1.000, 1231 Examples/sec
+Step 360: Minibatch Loss= 0.1564, Training Accuracy= 0.960, 1040 Examples/sec
+Step 370: Minibatch Loss= 0.1946, Training Accuracy= 0.960, 1149 Examples/sec
+Step 380: Minibatch Loss= 0.0744, Training Accuracy= 0.980, 1155 Examples/sec
+Step 390: Minibatch Loss= 0.0145, Training Accuracy= 0.980, 1220 Examples/sec
+Step 400: Minibatch Loss= 0.0709, Training Accuracy= 0.980, 1235 Examples/sec
+Step 410: Minibatch Loss= 0.1519, Training Accuracy= 0.980, 1249 Examples/sec
+Step 420: Minibatch Loss= 0.1328, Training Accuracy= 0.980, 1127 Examples/sec
+Step 430: Minibatch Loss= 0.1380, Training Accuracy= 0.960, 1093 Examples/sec
+Step 440: Minibatch Loss= 0.1613, Training Accuracy= 0.980, 1184 Examples/sec
+Step 450: Minibatch Loss= 0.0754, Training Accuracy= 0.980, 1143 Examples/sec
+Step 460: Minibatch Loss= 0.1738, Training Accuracy= 0.960, 1223 Examples/sec
+Step 470: Minibatch Loss= 0.1452, Training Accuracy= 0.960, 1226 Examples/sec
+Step 480: Minibatch Loss= 0.1374, Training Accuracy= 1.000, 1195 Examples/sec
+Step 490: Minibatch Loss= 0.1988, Training Accuracy= 0.960, 1206 Examples/sec
+Optimization Finished!
+TESTING
+test accuracy 1
+--- 49.958200454711914 seconds ---

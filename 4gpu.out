@@ -1,0 +1,30 @@
+Step 0: Minibatch Loss= 2.2535, Training Accuracy= 0.340, 26 Examples/sec
+Step 1: Minibatch Loss= 2.2026, Training Accuracy= 0.500, 1643 Examples/sec
+Step 10: Minibatch Loss= 1.7988, Training Accuracy= 0.600, 1716 Examples/sec
+Step 20: Minibatch Loss= 1.3138, Training Accuracy= 0.740, 1645 Examples/sec
+Step 30: Minibatch Loss= 0.8385, Training Accuracy= 0.940, 1695 Examples/sec
+Step 40: Minibatch Loss= 0.3413, Training Accuracy= 0.880, 1704 Examples/sec
+Step 50: Minibatch Loss= 0.5635, Training Accuracy= 0.880, 1609 Examples/sec
+Step 60: Minibatch Loss= 0.5543, Training Accuracy= 0.980, 1654 Examples/sec
+Step 70: Minibatch Loss= 0.4656, Training Accuracy= 0.940, 1650 Examples/sec
+Step 80: Minibatch Loss= 0.3041, Training Accuracy= 0.840, 1616 Examples/sec
+Step 90: Minibatch Loss= 0.1664, Training Accuracy= 0.940, 1824 Examples/sec
+Step 100: Minibatch Loss= 0.5960, Training Accuracy= 0.860, 1741 Examples/sec
+Step 110: Minibatch Loss= 0.2938, Training Accuracy= 0.980, 1634 Examples/sec
+Step 120: Minibatch Loss= 0.2999, Training Accuracy= 0.960, 1648 Examples/sec
+Step 130: Minibatch Loss= 0.0626, Training Accuracy= 1.000, 1778 Examples/sec
+Step 140: Minibatch Loss= 0.1784, Training Accuracy= 0.980, 1626 Examples/sec
+Step 150: Minibatch Loss= 0.2274, Training Accuracy= 0.940, 1721 Examples/sec
+Step 160: Minibatch Loss= 0.2756, Training Accuracy= 0.960, 1753 Examples/sec
+Step 170: Minibatch Loss= 0.0679, Training Accuracy= 0.960, 1801 Examples/sec
+Step 180: Minibatch Loss= 0.0877, Training Accuracy= 0.960, 1625 Examples/sec
+Step 190: Minibatch Loss= 0.0973, Training Accuracy= 0.980, 1692 Examples/sec
+Step 200: Minibatch Loss= 0.0787, Training Accuracy= 0.980, 1678 Examples/sec
+Step 210: Minibatch Loss= 0.0887, Training Accuracy= 0.940, 1776 Examples/sec
+Step 220: Minibatch Loss= 0.2440, Training Accuracy= 0.980, 1739 Examples/sec
+Step 230: Minibatch Loss= 0.0801, Training Accuracy= 0.960, 1625 Examples/sec
+Step 240: Minibatch Loss= 0.0883, Training Accuracy= 0.980, 1808 Examples/sec
+Optimization Finished!
+TESTING
+test accuracy 1
+--- 38.10565757751465 seconds ---
