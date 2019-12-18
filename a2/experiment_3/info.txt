@@ -1,0 +1,1 @@
+GradientDescentOptimizer with learning rate of 0.0001
